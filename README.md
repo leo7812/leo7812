@@ -5,6 +5,9 @@ Can reach me at: leof7812@gmail.com
 
 Currently working on **OPENCaliber**, LLM Metric Program for all popular AI providers.
 
+<img width="1280" height="960" alt="OpenCaliber(1)" src="https://github.com/user-attachments/assets/4d501a22-1295-470d-b929-e5408ecb776a" />
+
+
 Past Projects:
 FireCast, FineTuned Prithvi FM to predict wildfire probabilty and size in California!
 
