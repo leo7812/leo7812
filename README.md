@@ -3,6 +3,12 @@ I am Leo, a Data Scientist working on making AI easy for everyone!
 Currently working on Managing AI agents and making them more efficient with management of token usage on latest frontier models!
 Can reach me at: leof7812@gmail.com
 
+Currently working on **OPENCaliber**
+
+<img width="274" height="186" alt="OpenCaliber" src="https://github.com/user-attachments/assets/a2ed6417-da56-404d-a3a2-ee4d7fdec341" />
+
+
+
 
 Past Projects:
 FireCast, FineTuned Prithvi FM to predict wildfire probabilty and size in California!
