@@ -5,7 +5,7 @@ Can reach me at: leof7812@gmail.com
 
 Currently working on **OPENCaliber**
 
-<img width="274" height="186" alt="OpenCaliber" src="https://github.com/user-attachments/assets/a2ed6417-da56-404d-a3a2-ee4d7fdec341" />
+<img width="3456" height="1854" alt="OpenCaliber" src="https://github.com/user-attachments/assets/a2ed6417-da56-404d-a3a2-ee4d7fdec341" />
 
 
 
