@@ -1,21 +1,21 @@
-## Hi there 👋
-I am Leo, a Data Scientist working on making AI easy for everyone!
-Currently working on Managing AI agents and making them more efficient with management of token usage on latest frontier models!
-Can reach me at: leof7812@gmail.com
+## Hi!  ( ^‿^ )ﾉﾞ
+- I am Leo, a Data Scientist currently working on Managing AI agents and making them more efficient with management of token usage on latest frontier models!
+- Available @ leof7812@gmail.com
 
-Currently working on **OPENCaliber**, LLM Metric Program for all popular AI providers.
+- Currently working on **OpenCaliber**, LLM Metric Program for all popular AI providers.
 
-<img width="640" height="480" alt="OpenCaliber(1)" src="https://github.com/user-attachments/assets/4d501a22-1295-470d-b929-e5408ecb776a" />
-
-
-Past Projects:
-FireCast, FineTuned Prithvi FM to predict wildfire probabilty and size in California!
-
-<img width="3456" height="1854" alt="wildfireDemoClip" src="https://github.com/user-attachments/assets/bb9353df-a5eb-4c43-ba3b-c0ff46c0535e" />
+<p align="center"> <img width="576" height="426" alt="OpenCaliber" src="https://github.com/user-attachments/assets/cba85d0a-9e46-468f-a30b-98458dd00c86" /> </p>
 
 
+<p align="center"><h1>Past Projects</h1>
+<h2>FireCast - FineTuned Prithvi FM to predict wildfire probabilty and size in California!</h2>
 
-Denoising AutoEncoder
+<img width="1280" height="584" alt="FireCastLogo" src="https://github.com/user-attachments/assets/1661bb24-f8c1-4529-ab7b-0cbdd5ab2efb" />
+<p align="center"><img width="3456" height="1854" alt="wildfireDemoClip" src="https://github.com/user-attachments/assets/bb9353df-a5eb-4c43-ba3b-c0ff46c0535e" /></p>
+
+
+
+<h2>Denoising AutoEncoder</h2>
 Led a team of 4 in AI/ML club to build a Denoising AutoEncoder with a Unet architecture to be more familiar with ML concepts!
 
 <img width="835" height="781" alt="image" src="https://github.com/user-attachments/assets/b3a0ac4e-9575-458f-ab73-5977c1af3a1b" />
