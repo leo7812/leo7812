@@ -4,8 +4,10 @@
 
 - Currently working on **OpenCaliber**, LLM Metric Program for all popular AI providers.
 
-<p align="center"> <img width="576" height="426" alt="OpenCaliber" src="https://github.com/user-attachments/assets/cba85d0a-9e46-468f-a30b-98458dd00c86" /> </p>
+<p align="center"><img width="288" height="212" alt="opencaliberDigital" src="https://github.com/user-attachments/assets/5a3fe9b8-0225-4f5c-92a3-392a80f56640" /></p>
 
+<!--<p align="center"> <img width="576" height="426" alt="OpenCaliber" src="https://github.com/user-attachments/assets/cba85d0a-9e46-468f-a30b-98458dd00c86" /> </p>
+-->
 
 <p align="center"><h1>Past Projects</h1>
 <h2>FireCast - FineTuned Prithvi FM to predict wildfire probabilty and size in California!</h2>
