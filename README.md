@@ -18,7 +18,7 @@
 <h2>Denoising AutoEncoder</h2>
 Led a team of 4 in AI/ML club to build a Denoising AutoEncoder with a Unet architecture to be more familiar with ML concepts!
 
-<img width="835" height="781" alt="image" src="https://github.com/user-attachments/assets/b3a0ac4e-9575-458f-ab73-5977c1af3a1b" />
+<p align="center"><img width="835" height="781" alt="image" src="https://github.com/user-attachments/assets/b3a0ac4e-9575-458f-ab73-5977c1af3a1b" /></p>
 
 <!--
 **leo7812/leo7812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
