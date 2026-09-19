@@ -15,6 +15,8 @@
 |   ,/      |   | ,'                          `---`          \   \ ;        `---`     |   |.'              |   ,.'       
 '---'       `----'                                            '---"                   `---'                '---'     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+<p align="center"><img width="500" height="500" alt="planet" src="https://github.com/user-attachments/assets/cabbe4b7-e450-43a0-9c4a-8c2a73550d7d" /></p>
+
 - I am Leo, a Data Scientist currently working on Managing AI agents and making them more efficient with management of token usage on latest frontier models!
 - Available @ leof7812@gmail.com
 
