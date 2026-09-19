@@ -28,6 +28,7 @@
     <img width="150" height="150" alt="star" src="https://github.com/user-attachments/assets/a5c03603-86c2-4afe-bce5-0c9ac30ef589" />
 
 </p>
+
 - I am Leo, a Data Scientist currently working on Managing AI agents and making them more efficient with management of token usage on latest frontier models! 
 
 - Available @ leof7812@gmail.com
